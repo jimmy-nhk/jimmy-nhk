@@ -1,29 +1,26 @@
+# 👨‍💻 About Me
 
+## 🎓 Education
+- Graduated with honors from RMIT, ranking among the top 3 students in the Bachelor of Software Engineering (Honours) program.
+- Currently pursuing a Master of AI program at RMIT.
 
-<!--
-**jimmy-nhk/jimmy-nhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💼 Professional Experience
+- Over 2 years of experience as a Data Scientist, specializing in both tabular and unstructured data.
+- Proficient in Python, SQL, No-SQL, scikit-learn, pandas, and TensorFlow.
+- Worked extensively with big data and familiar with cloud services, particularly Azure.
 
-Here are some ideas to get you started:
+## ☁️ Cloud Expertise
+- Proficient in Azure services, leveraging cloud capabilities for data science projects.
+- Skilled in building and deploying chatbots using Azure services and the Langchain framework.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 Current Role
+- Currently employed as a Data Scientist, passionately working with data to derive valuable insights.
 
-### Hi there 👋
+## 📊 Data Enthusiast
+- Love working with data and extracting meaningful patterns.
+- Eager to explore new opportunities and challenges in the field of data science.
 
-- 🔭 I’m currently a last year student at RMIT Vietnam.
-- 🌱 I’m currently learning about Web Development.
-- 🤔 I'm currently interested in Machine Learning and Data Science field.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hoangkhangn/)
-
-[![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmy-nhk&include_all_commits=true&show_icons=true&custom_title=GitHub+Stats&bg_color=30,0b525b,144552,1b3a4b,212f45&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/jimmy-nhk)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy-nhk&layout=compact&show_icons=true&bg_color=30,0b525b,144552,1b3a4b,212f45&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/jimmy-nhk)
+## 📬 Connect with Me
+- Open to collaborations, discussions, and networking opportunities.
+- Feel free to reach out—I'm always interested in connecting with fellow professionals and enthusiasts.
 
